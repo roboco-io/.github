@@ -1,3 +1,11 @@
-# Accelate with Robot Co-Worker
+# ROBOCO
 
-로보코는 AWS·구글 등 글로벌 IT 기업 출신 전문가들이 모여, 기업의 디지털 혁신을 더 쉽고 빠르게 실현하도록 돕는 IT 컨설팅 파트너입니다. 생성형 AI와 클라우드 네이티브 기술을 활용해 즉시 적용 가능한 솔루션과 맞춤형 교육을 동시에 제공하며, 고객의 비즈니스를 새로운 차원으로 도약시키기 위한 조직 역량 강화까지 지원합니다.
+ROBOCO is an AI transformation partner founded by former Amazon and Google engineers. We focus on helping organizations build internal AI capabilities through consulting, hands-on education, and software development.
+
+## What We Focus On
+
+- **AI Integration** — Practical methodologies for embedding AI into business workflows, including no-code approaches for non-developers.
+- **Capability Building** — Training and co-building with client teams so expertise stays in-house.
+- **Safe AI Adoption** — Bridging the gap between what AI can do and what can be reliably deployed, addressing risks like hallucinations, security vulnerabilities, and technical debt.
+
+Learn more at [roboco.io](https://roboco.io)
