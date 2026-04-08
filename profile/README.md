@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./roboco-logo.svg" alt="ROBOCO logo" width="180" />
   <h1>ROBOCO</h1>
   <p>
     <a href="https://roboco.io"><img alt="Website" src="https://img.shields.io/badge/Website-roboco.io-f5f5f5?style=flat-square&labelColor=111111" /></a>
